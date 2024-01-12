@@ -3,3 +3,23 @@ html {
   width: 100%;
 }
 
+body{
+  background-color: gray;
+}
+
+h3{
+  color:green;
+}
+
+#red{
+  color:red;
+}
+  
+h3{
+  color: green;
+}
+
+.azul{
+  background-color: blue;
+}
+
