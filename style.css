@@ -11,15 +11,14 @@ h3{
   color:green;
 }
 
-<<<<<<< HEAD
 #red{
   color:red;
-=======
+}
+  
 h3{
-  color:green;
+  color: green;
 }
 
 .azul{
   background-color: blue;
->>>>>>> e509b39 (colores)
 }
