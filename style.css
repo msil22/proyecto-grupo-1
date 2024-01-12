@@ -3,6 +3,14 @@ html {
   width: 100%;
 }
 
-h1{
+body{
+  background-color: gray;
+}
+
+h3{
   color: red;
+}
+
+h3{
+  color:green;
 }
